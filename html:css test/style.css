@@ -1,0 +1,45 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body{
+  background-color: rgb(87, 148, 201);
+}
+
+h1 {
+  text-align: center;
+}
+
+h2 , h3 {
+  color: red;
+  text-align: right;
+}
+
+.para1 {
+  font-size: 12px;
+}
+
+.bold {
+  font-weight: bold;
+}
+
+.links {
+  margin: 10px;
+}
+
+.pic1 {
+  width: 500px;
+  height: 600px;
+}
+
+.pic2 {
+  width: 500px;
+  height:600px;
+}
+
+.pic3 {
+  width: 500px;
+  height: 600px;
+}
